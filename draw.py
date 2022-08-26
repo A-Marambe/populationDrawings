@@ -3,5 +3,5 @@ import pandas as pd
 
 
 print("library loaded")
-#write the code
+#write the board
 ranmat = np.randint(0,10)
